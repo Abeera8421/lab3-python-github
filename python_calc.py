@@ -176,7 +176,7 @@ def main():
 
             if result is None: 
 
-                print("Error: Cannot calculate percentage of zero.") 
+                print("Error: Cannot calculate the percentage of the number with respect to zero.") 
 
             else: 
 
